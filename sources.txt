@@ -1,0 +1,11 @@
+/home/storgi/programing/MIFI_maga/java_prog/pj_fin/scripts/../src/Main.java
+/home/storgi/programing/MIFI_maga/java_prog/pj_fin/scripts/../src/service/WalletService.java
+/home/storgi/programing/MIFI_maga/java_prog/pj_fin/scripts/../src/service/AuthService.java
+/home/storgi/programing/MIFI_maga/java_prog/pj_fin/scripts/../src/service/PersistenceService.java
+/home/storgi/programing/MIFI_maga/java_prog/pj_fin/scripts/../src/tests/TestWalletService.java
+/home/storgi/programing/MIFI_maga/java_prog/pj_fin/scripts/../src/tests/TestAuthService.java
+/home/storgi/programing/MIFI_maga/java_prog/pj_fin/scripts/../src/util/ConsoleUtils.java
+/home/storgi/programing/MIFI_maga/java_prog/pj_fin/scripts/../src/model/Wallet.java
+/home/storgi/programing/MIFI_maga/java_prog/pj_fin/scripts/../src/model/User.java
+/home/storgi/programing/MIFI_maga/java_prog/pj_fin/scripts/../src/model/Budget.java
+/home/storgi/programing/MIFI_maga/java_prog/pj_fin/scripts/../src/model/Transaction.java
