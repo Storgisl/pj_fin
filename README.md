@@ -18,17 +18,19 @@ bash build.sh
 bash run.sh
 ```
 
-Основные команды
-Команда	Что делает
-register <login>	Зарегистрироваться
-login <login>	Войти
-logout	Выйти
-add-income <cat> <amt> [note]	Добавить доход
-add-expense <cat> <amt> [note]	Добавить расход
-set-budget <cat> <limit>	Установить бюджет
-transfer <user> <amount>	Перевести деньги другому пользователю
-export <filename>	Сохранить кошелек в файл
-import <filename>	Загрузить кошелек из файла
-summary	Показать баланс, доходы и расходы
-help	Показать список команд
-exit	Выйти из программы
+## Основные команды
+
+| Команда                     | Что делает |
+|------------------------------|------------|
+| `register <login>`           | Зарегистрироваться |
+| `login <login>`              | Войти |
+| `logout`                     | Выйти |
+| `add-income <cat> <amt> [note]` | Добавить доход |
+| `add-expense <cat> <amt> [note]` | Добавить расход |
+| `set-budget <cat> <limit>`  | Установить бюджет |
+| `transfer <user> <amount>`  | Перевести деньги другому пользователю |
+| `export <filename>`          | Сохранить кошелек в файл |
+| `import <filename>`          | Загрузить кошелек из файла |
+| `summary`                    | Показать баланс, доходы и расходы |
+| `help`                       | Показать список команд |
+| `exit`                       | Выйти из программы |
